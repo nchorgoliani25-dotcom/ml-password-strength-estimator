@@ -117,12 +117,11 @@ This project was created for academic purposes.
 
 ### Feature Importance (Logistic Regression)
 
-**Weak**
-![Feature Importance – Weak](/feature_importance_weak.png)
+**Weak**  
+![Feature Importance – Weak](feature_importance_weak.png)
 
-**Medium**
+**Medium**  
 ![Feature Importance – Medium](feature_importance_medium.png)
 
-**Strong**
+**Strong**  
 ![Feature Importance – Strong](feature_importance_strong.png)
-
