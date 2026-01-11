@@ -109,3 +109,20 @@ This allows reuse of the model without retraining.
 
 ## License
 This project was created for academic purposes.
+
+## Results Visualization
+
+### Confusion Matrix
+![Confusion Matrix](figures/confusion_matrix.png)
+
+### Feature Importance (Logistic Regression)
+
+**Weak**
+![Feature Importance – Weak](figures/feature_importance_weak.png)
+
+**Medium**
+![Feature Importance – Medium](figures/feature_importance_medium.png)
+
+**Strong**
+![Feature Importance – Strong](figures/feature_importance_strong.png)
+
