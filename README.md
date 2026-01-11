@@ -113,16 +113,16 @@ This project was created for academic purposes.
 ## Results Visualization
 
 ### Confusion Matrix
-![Confusion Matrix](figures/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Feature Importance (Logistic Regression)
 
 **Weak**
-![Feature Importance – Weak](figures/feature_importance_weak.png)
+![Feature Importance – Weak](/feature_importance_weak.png)
 
 **Medium**
-![Feature Importance – Medium](figures/feature_importance_medium.png)
+![Feature Importance – Medium](feature_importance_medium.png)
 
 **Strong**
-![Feature Importance – Strong](figures/feature_importance_strong.png)
+![Feature Importance – Strong](feature_importance_strong.png)
 
