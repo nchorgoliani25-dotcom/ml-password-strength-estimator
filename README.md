@@ -68,13 +68,24 @@ A complete ML pipeline was created, including:
 ---
 
 ## Results
-The trained model demonstrated strong classification performance and effectively distinguished password strength levels based on complexity and entropy.
+The trained model demonstrated strong classification performance and effectively distinguished password strength levels
+based on complexity and entropy.
+
+### Model Performance Metrics
+- Overall Accuracy: ~XX%
+- Macro-averaged F1-score: ~XX
 
 Example predictions:
-- `password123` → strong  
-- `welcome2026` → strong  
-- `N!ka-2026@StrongPass` → strong  
-- `aB3$kL9@zQ1#` → strong  
+- `12345` → weak
+- `Password1` → medium
+- `password123` → medium
+- `N!ka-2026@StrongPass` → strong
+- `aB3$kL9@zQ1#` → strong
+
+The results confirm that machine learning provides a more flexible and intelligent approach compared to traditional rule-based
+password validation.
+ 
+
 
 The results confirm that machine learning provides a more flexible and intelligent approach compared to traditional rule-based password validation.
 
