@@ -136,3 +136,7 @@ This project was created for academic purposes.
 
 **Strong**  
 ![Feature Importance – Strong](feature_importance_strong.png)
+
+## Academic Report
+The full academic report (Word format) is available here:
+[Download Report](report/Machine_Learning_Password_Strength_Estimator_Report.docx)
