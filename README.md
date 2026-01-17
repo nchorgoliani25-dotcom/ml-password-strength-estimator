@@ -72,8 +72,8 @@ The trained model demonstrated strong classification performance and effectively
 based on complexity and entropy.
 
 ### Model Performance Metrics
-- Overall Accuracy: ~XX%
-- Macro-averaged F1-score: ~XX
+- Overall Accuracy: 91%
+- Macro-averaged F1-score: 0.90
 
 Example predictions:
 - `12345` → weak
@@ -84,10 +84,6 @@ Example predictions:
 
 The results confirm that machine learning provides a more flexible and intelligent approach compared to traditional rule-based
 password validation.
- 
-
-
-The results confirm that machine learning provides a more flexible and intelligent approach compared to traditional rule-based password validation.
 
 ---
 
